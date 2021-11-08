@@ -1,0 +1,16 @@
+aut-num:        AS397677
+as-name:        ASN-SIXPACKETS
+descr:          SixPackets
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+import:         from AS11042 accept ANY
+import:         from AS2914  accept ANY
+import:         from AS20473 accept ANY
+export:         to AS11042 announce AS397677:AS-SIXPACKETS
+export:         to AS2914  announce AS397677:AS-SIXPACKETS
+export:         to AS20473 announce AS397677:AS-SIXPACKETS
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201007
+source:         NTTCOM
+

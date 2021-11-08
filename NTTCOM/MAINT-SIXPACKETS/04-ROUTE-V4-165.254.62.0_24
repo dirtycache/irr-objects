@@ -1,0 +1,55 @@
+route:          165.254.0.0/16
+descr:          NTT Communications backbone
+origin:         AS2914
+remarks:        contacts per RFC2142:
+remarks:        Abuse / UCE reports abuse@ntt.net
+remarks:        Security issues     security@ntt.net
+remarks:        SWIP Issues         ce-ipadmin@us.ntt.net
+mnt-by:         MAINT-NTTCOM-RA
+changed:        bradd@us.ntt.net 20080326
+source:         NTTCOM
+
+route:          165.254.0.0/16
+descr:          RPKI ROA for 165.254.0.0/16
+remarks:        This route object represents routing data retrieved from the RPKI
+remarks:        This route object is the result of an automated RPKI-to-IRR conversion process.
+remarks:        maxLength 16
+origin:         AS2914
+mnt-by:         MAINT-NTTCOM-RPKI
+changed:        job@ntt.net 20201007
+source:         RPKI  # Trust Anchor: arin
+
+route:          165.254.62.0/24
+descr:          SixPackets
+origin:         AS16970
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201008
+source:         NTTCOM
+
+route:          165.254.62.0/24
+descr:          RPKI ROA for 165.254.62.0/24
+remarks:        This route object represents routing data retrieved from the RPKI
+remarks:        This route object is the result of an automated RPKI-to-IRR conversion process.
+remarks:        maxLength 24
+origin:         AS397677
+mnt-by:         MAINT-NTTCOM-RPKI
+changed:        job@ntt.net 20201007
+source:         RPKI  # Trust Anchor: arin
+
+route:          165.254.62.0/24
+descr:          Vultr Customer Route
+origin:         AS397677
+notify:         network@choopa.com
+mnt-by:         MAINT-AS20473
+changed:        network@choopa.com 20201007  #20:37:00Z
+source:         RADB
+
+route:          165.254.62.0/24
+descr:          SixPackets
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        ak@sixpackets.com 20190702
+source:         NTTCOM
+

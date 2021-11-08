@@ -1,0 +1,7 @@
+route:          165.254.62.0/24
+descr:          SixPackets
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        ak@sixpackets.com 20190702
+source:         NTTCOM
