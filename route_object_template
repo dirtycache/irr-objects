@@ -1,0 +1,8 @@
+route:          ZZROUTEZZ
+descr:          SixPackets - blackhole only
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        ak@sixpackets.com ZZTIMEZZ
+source:		NTTCOM
+

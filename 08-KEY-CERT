@@ -1,0 +1,12 @@
+---------------------- CUT HERE -------------------
+key-cert:  [mandatory]  [single]     [primary/look-up key]
+method:    [generated]  [single]     [ ]
+owner:     [generated]  [multiple]   [ ]
+fingerpr:  [generated]  [single]     [ ]
+certif:    [mandatory]  [single]     [ ]
+remarks:   [optional]   [multiple]   [ ]
+notify:    [optional]   [multiple]   [inverse key]
+mnt-by:    [mandatory]  [multiple]   [inverse key]
+changed:   [mandatory]  [multiple]   [ ]
+source:    [mandatory]  [single]     [ ]
+---------------------- CUT HERE -------------------

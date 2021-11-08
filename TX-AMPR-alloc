@@ -1,0 +1,50 @@
+44.76.0.10/32	kg5czh	KG5CZH
+44.76.0.11/32	W5OXC	W5OXC
+44.76.0.13/32	AB5A TCP/IP	AB5A
+44.76.0.15/32	W5BAK	W5BAK
+44.76.0.16/32	San Antonio Experimental	KK4HEJ
+44.76.0.17/32	need gateway	KD5MKV
+44.76.0.32/28	WM8S ICS Command Post experimentation	WM8S
+44.76.0.48/28	Ennis Tx.	KB0BWG
+44.76.0.64/28	AD5FW localnet experiments	AD5FW
+44.76.0.80/28	WX0MMG experimental net	WX0MMG
+44.76.0.96/28	N5YHF Austin, TX	N5YHF
+44.76.0.128/28	N2NOP	N2NOP
+44.76.0.144/28	KG5GKC North Texas	KG5GKC
+44.76.0.160/28	KE5HHG	KE5HHG
+44.76.0.176/28	WA5PCR	WA5PCR
+44.76.0.192/28	Experimental Packet in Bastrop County	N9SEO
+44.76.0.208/28	N-FtWorth Radio Net44	KG5EEL
+44.76.0.224/28	WA9JG	WA9JG
+44.76.1.0/26	Kerrville Texas	N5ZKK
+44.76.1.64/29	Midland texas Experimental	KF5SKQ
+44.76.1.72/29	Rowlett based - Home AMPR w/RF gw to local BPQ switch	AE5TC
+44.76.1.80/29	Rockwall based - Office AMPR w/RF gw to local BPQ switch	AE5TC
+44.76.1.88/29	North Dallas based - Work AMPR w/RF gw to local BPQ switch - 150 foot rooftop	AE5TC
+44.76.1.96/29	KX8B BBHNs; Winlink, APRS gateways	KX8B
+44.76.1.104/29	Lone Star Experimental	NE2I
+44.76.1.112/29	Experimental	AD5OU
+44.76.1.120/29	KE5ZNI	KE5ZNI
+44.76.1.128/29	Montgomery County	N5MDT
+44.76.1.136/29	KF5RRF - Fort Worth, Texas	KF5RRF
+44.76.1.144/29	Houston Area	KF5CDH
+44.76.1.152/29	Magnolia Manor RF Network - Additional Addresses	AE5HO
+44.76.1.160/29	AC5UV	AC5UV
+44.76.3.0/26	W2NIK	W2NIK
+44.76.3.72/30	Experimental	AG5OV
+44.76.4.32/29	Experimental IP	KG5REO
+44.76.4.40/29	Experimental gateway Pflugerville	K5SEQ
+44.76.4.64/26	HEB Experimental Packet Network	KI5CHE
+44.76.8.0/24	N2NOP	N2NOP
+44.76.9.0/24	N0ARP Experimental Radio Net	N0ARP
+44.76.10.0/24	CollegeStationHAMWAN	KG5SDD
+44.76.11.0/28	N5CNB/F6CNB	F6CNB
+44.76.11.16/28	N5CNB/F6CNB	F6CNB
+44.76.11.32/27	Tyler Area, East Texas	W5FOW
+44.76.11.64/27	Radio Experimental	N9BAV
+44.76.11.96/27	Cedar Creek Lake Area	AF5SZ
+44.76.11.128/27	N5CNB/F6CNB	F6CNB
+44.76.12.0/24	DFW Hams (storm, ARDEN, clubs)	KE5TUZ
+44.76.13.0/24	Radio SCADA/IOT Testing	K3ACM
+44.76.14.0/24	Anna Area Experimental Net	N3BBQ
+44.76.15.0/24	WX5FWD North Texas SKYWARN Radio Desk

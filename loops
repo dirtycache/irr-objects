@@ -1,0 +1,5 @@
+now="`date -u +"%Y%m%d"` #`date -u +"%T"` UTC"
+
+for foo in `cat subnets`; do cat route_object_template | sed "s@ZZROUTEZZ@$foo@g" | sed "s@ZZTIMEZZ@$now@g" ; done > NTTCOM-32
+
+
