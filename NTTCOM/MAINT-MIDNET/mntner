@@ -1,0 +1,12 @@
+mntner:         MAINT-MIDNET
+descr:          MIDnet maintainer AS16970
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+upd-to:         ipadmin@mid.net
+mnt-nfy:        ipadmin@mid.net
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 2021115
+source:         NTTCOM

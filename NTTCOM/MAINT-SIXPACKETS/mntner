@@ -1,12 +1,12 @@
 mntner:         MAINT-SIXPACKETS
-descr:          SixPackets maintainer AS 397677
+descr:          SixPackets maintainer AS397677
 admin-c:        IPADM835-ARIN
 tech-c:         IPADM835-ARIN
 upd-to:         ipadmin@sixpackets.com
 mnt-nfy:        ipadmin@sixpackets.com
-auth:           CRYPT-PW DummyValue  # Filtered for security
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20200930
+changed:        adam.korab@sixpackets.com 2021115
 source:         NTTCOM
-

@@ -1,7 +1,0 @@
-route6:         2001:418:1401:22::/64
-descr:          SixPackets
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        ak@sixpackets.com 20190702
-source:         NTTCOM

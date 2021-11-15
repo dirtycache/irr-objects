@@ -1,0 +1,9 @@
+as-set:         AS397677:AS-SIXPACKETS
+descr:          SixPackets originate
+members:        AS397677
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 2021115
+source:         NTTCOM

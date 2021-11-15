@@ -1,0 +1,35 @@
+as-set:         AS16970:AS-MIDNET-ALL
+descr:          MIDnet originate + transit
+members:        AS16970:AS-MIDNET
+members:        AS16970:AS-MIDNET-TRANSIT
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 2021115
+source:         NTTCOM
+
+as-set:         AS16970:AS-MIDNET
+descr:          MIDnet originate
+members:        AS16970
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 2021115
+source:         NTTCOM
+
+as-set:         AS16970:AS-MIDNET-TRANSIT
+descr:          MIDnet transit only
+members:        AS397677:AS-SIXPACKETS
+members:        AS398883
+remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
+remarks:        Level3 members: ARIN::AS398883
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 2021115
+source:         NTTCOM
