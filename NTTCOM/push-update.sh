@@ -13,10 +13,7 @@ REPLYTO="noc@mid.net"
 cd $WORKDIR
 
 while read OBJ ; do
-	/usr/bin/cat $OBJ >> $WORKDIR/obj-updates.txt
-	echo " " >> $WORKDIR/obj-updates.txt
+	/usr/bin/gpg --quiet --clearsign $OBJ
+	cat $OBJ.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC <noc@mid.net>" -S replyto="noc@mid.net" $AUTODBM
+	/usr/bin/rm $OBJ.asc
 done <<< `ls`
-
-/usr/bin/gpg --clearsign $WORKDIR/obj-updates.txt
-/usr/bin/cat $WORKDIR/obj-updates.txt.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC <noc@mid.net>" replyto="noc@mid.net" $AUTODBM
-/usr/bin/rm $WORKDIR/obj-*
