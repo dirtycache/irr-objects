@@ -1,6 +1,6 @@
 key-cert:       PGPKEY-A58A41C6
 method:         PGP
-owner:          Adam Korab <adam.korab@sixpackets.com 2021115
+owner:          Adam Korab <adam.korab@sixpackets.com 20211115
 fingerpr:       1742 8307 6222 7E20 5D87  761D 3AA6 9F64 A58A 41C6
 certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 +               
@@ -55,5 +55,5 @@ certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 +               =E1+8
 +               -----END PGP PUBLIC KEY BLOCK-----
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM

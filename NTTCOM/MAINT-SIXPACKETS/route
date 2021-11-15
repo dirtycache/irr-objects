@@ -3,7 +3,7 @@ descr:          SixPackets - AMPRnet
 origin:         AS397677
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 
 route:          44.78.16.0/24
@@ -11,7 +11,7 @@ origin:         AS397677
 descr:          NET-44-78-16-0-1
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 
 route:          165.254.62.0/24
@@ -19,5 +19,5 @@ descr:          SixPackets
 origin:         AS397677
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM

@@ -8,7 +8,7 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 2021115
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 
 as-set:         AS16970:AS-MIDNET
@@ -18,7 +18,7 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 2021115
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 
 as-set:         AS16970:AS-MIDNET-TRANSIT
@@ -31,5 +31,5 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 2021115
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM

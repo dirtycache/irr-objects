@@ -8,5 +8,5 @@ auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM

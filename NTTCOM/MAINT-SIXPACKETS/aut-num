@@ -13,5 +13,5 @@ export:         to AS2914  announce AS397677:AS-SIXPACKETS-ALL
 export:         to AS ANY announce AS397677:AS-SIXPACKETS
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 2021115
+changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM

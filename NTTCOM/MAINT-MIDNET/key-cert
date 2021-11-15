@@ -1,6 +1,6 @@
 key-cert:       PGPKEY-54AF4ACF
 method:         PGP
-owner:          Adam Korab <adam.korab@mid.net 2021115
+owner:          Adam Korab <adam.korab@mid.net 20211115
 fingerpr:       BAF7 3F66 4E81 92A0 3BAD  75C9 A982 9220 54AF 4ACF
 certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 +               
@@ -54,5 +54,5 @@ certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 +               =jh52
 +               -----END PGP PUBLIC KEY BLOCK-----
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 2021115
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
