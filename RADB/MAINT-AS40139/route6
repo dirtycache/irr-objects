@@ -1,0 +1,8 @@
+route6:     2605:f8c0::/32
+origin:     AS40139
+descr:      Jackson Technical LLC
+notify:     dns@jacksontechnical.com
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS40139
+changed:    adam.korab@sixpackets.com 20211108  #20:22:29Z
+source:     RADB

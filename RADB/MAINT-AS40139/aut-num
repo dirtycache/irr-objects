@@ -1,0 +1,16 @@
+aut-num:    AS40139
+as-name:    ASN-JTECH
+descr:      Jackson Technical
+import:     from AS3356		accept ANY AND NOT {0.0.0.0/0}
+import:     from AS22773	accept ANY AND NOT {0.0.0.0/0}
+import:     from AS397677	accept AS397677:AS-SIXPACKETS
+export:     to AS3356   	announce AS40139:AS-JTECH-ALL
+export:     to AS22773   	announce AS40139:AS-JTECH-ALL
+export:     to AS397677		announce ANY
+admin-c:    DNSAD166-ARIN
+tech-c:     DNSAD166-ARIN
+notify:     dns@jacksontechnical.com
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS40139
+changed:    adam.korab@sixpackets.com 20211115
+source:     RADB
