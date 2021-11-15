@@ -18,5 +18,5 @@ while read OBJ ; do
 done <<< `ls`
 
 /usr/bin/gpg --clearsign $WORKDIR/obj-updates.txt
-/usr/bin/cat $WORKDIR/obj-updates.txt.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC" <noc@mid.net> -S replyto="noc@mid.net" $AUTODBM"
+/usr/bin/cat $WORKDIR/obj-updates.txt.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC <noc@mid.net>" replyto="noc@mid.net" $AUTODBM
 /usr/bin/rm $WORKDIR/obj-*
