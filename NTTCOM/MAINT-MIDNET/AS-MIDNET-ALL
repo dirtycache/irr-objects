@@ -1,11 +1,12 @@
 as-set:         AS16970:AS-MIDNET-ALL
 descr:          MIDnet originate + transit
-members:        AS16970:AS-MIDNET,AS16970:AS-MIDNET-TRANSIT
+members:        AS16970:AS-MIDNET
+members:	AS16970:AS-MIDNET-TRANSIT
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT
 admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201014 # 15:28:24Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
