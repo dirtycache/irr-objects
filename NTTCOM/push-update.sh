@@ -17,12 +17,6 @@ while read OBJ ; do
 	echo " " >> $WORKDIR/obj-updates.txt
 done <<< `ls`
 
-echo "updates file"
-/usr/bin/cat $WORKDIR/obj-updates.txt
-echo " "
-echo "signing updates file"
 /usr/bin/gpg --clearsign $WORKDIR/obj-updates.txt
-echo " "
-echo "sending mail"
-echo "/usr/bin/cat $WORKDIR/obj-updates.txt.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC" <noc@mid.net> -S replyto="noc@mid.net" $AUTODBM"
+/usr/bin/cat $WORKDIR/obj-updates.txt.asc | /usr/bin/mailx -s "updates" -r "MIDnet NOC" <noc@mid.net> -S replyto="noc@mid.net" $AUTODBM"
 /usr/bin/rm $WORKDIR/obj-*
