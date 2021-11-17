@@ -8,7 +8,7 @@ upd-to:     dns@jacksontechnical.com
 upd-to:     ipadmin@sixpackets.com
 mnt-nfy:    dns@jacksontechnical.com
 mnt-nfy:    ipadmin@sixpackets.com
-auth:       MD5-PW 7a95fef8a816e064fad0129bf9228805
+auth:       CRYPT-PW pkk7UfMf2itjM
 auth:       PGPKEY-A58A41C6
 auth:       PGPKEY-54AF4ACF
 notify:     dns@jacksontechnical.com
