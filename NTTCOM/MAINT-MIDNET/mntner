@@ -4,9 +4,10 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 upd-to:         ipadmin@mid.net
 mnt-nfy:        ipadmin@mid.net
+auth:		MD5-PW b0dc19fd38873364b278c3655a4bc194
 auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
+changed:        adam.korab@mid.net 20211117
 source:         NTTCOM
