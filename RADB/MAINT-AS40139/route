@@ -69,6 +69,7 @@ notify:     ipadmin@sixpackets.com
 mnt-by:     MAINT-AS40139
 changed:    adam.korab@sixpackets.com 20211115
 source:     RADB
+delete: testing
 
 route:      69.44.46.0/24
 origin:     AS40139
